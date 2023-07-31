@@ -1,3 +1,9 @@
 [submodule "Class"]
 	path = Class
 	url = https://github.com/ChungIndustries/CCClass
+[submodule "JSON"]
+	path = JSON
+	url = https://github.com/ChungIndustries/JsonAPI
+[submodule "Github"]
+	path = Github
+	url = https://github.com/ChungIndustries/GithubAPI
