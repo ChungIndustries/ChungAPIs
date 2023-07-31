@@ -7,3 +7,9 @@
 [submodule "Github"]
 	path = Github
 	url = https://github.com/ChungIndustries/GithubAPI
+[submodule "Githu"]
+	path = Githu
+	url = https://github.com/ChungIndustries/GithubAPI
+[submodule "PriorityQueue"]
+	path = PriorityQueue
+	url = https://github.com/ChungIndustries/PriorityQueueAPI
